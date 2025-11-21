@@ -1,7 +1,8 @@
 {
   "name": "routesandlayouts",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "tabview",
+
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
